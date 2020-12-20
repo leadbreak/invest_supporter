@@ -1,4 +1,4 @@
-#Modeling
+# Modeling
 
 ## Here are three models, each with two directions
 ## Each of the three models trains and predicts one, three, and twelve years' worth of data for the stock.
@@ -8,3 +8,6 @@
 ## The LSTM, GRU, and SimpleRNN algorithms were mixed and located according to the length of each period, and the internal parameters were adjusted.
 
 ## Each model was designed very conservatively and targeted at multiple targets and at least 3% or more profitable when targeted at the top 40% return.
+
+# The main annotation is in single.ipynb in Korean
+## For other questions or those things, please contact leadbreak013@gmail.com
